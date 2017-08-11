@@ -1,4 +1,4 @@
 # hello
 git test repository
 
-マンガでわかるGit 7話実戦用
+マンガでわかるGit 7・8話実戦用
