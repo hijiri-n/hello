@@ -6,3 +6,5 @@ git test repository
 # Links
 - [Web連載：マンガでわかるGit](https://codeiq.jp/magazine/category/git-ai/)
 - [Twitter @webdesignManga](https://twitter.com/webKdesignManga/)
+
+"git push -f origin master"が防がれるか？
